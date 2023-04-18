@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "ComicSans";
+  src: url("/ComicNeue-Regular.ttf");
+  }
+
+  .main {
+    font-family:'ComicSans';
+    font-weight:normal; 
+    font-style:normal;
+
+  }
